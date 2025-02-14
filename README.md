@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, I am Sara! 👋
 # 💫 About Me:
-🔹Data Analyst<br>🔹 Passionate about data visualization, machine learning, AI and automation<br>🔹 Experienced in Power BI, Python, SQL, and dashboard design
+🔹Data Analyst sharing about my journey and learning in tech <br>🔹 MS. Data Science, BS. Chemical Engineering <br> 🔹 Passionate about data visualization, machine learning, AI and automation<br>🔹 Experienced in Power BI, Python, SQL, and dashboard design
 
 
 ## 🌐 Socials:
